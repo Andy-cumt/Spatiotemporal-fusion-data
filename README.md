@@ -1,6 +1,7 @@
 # Spatiotemporal-fusion-data
 Data for evaluation of remote sensing spatiotemporal fusion algorithm
 
+2023.05.19: Corrected the error in calculating SSIM: we found that the results of SSIM were squared. The correct evaluation results have been re-uploaded.
 
 The complete datasets, quantitative comparison data for OL—fusion experiments
 
